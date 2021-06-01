@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hey! I'm Sheldon👋
+
+
+---
+
+
+
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/srls2iujfq5k4rbir575dzs8l)
+<br/>
+---
 
 <!--
 **w3sheldon/w3sheldon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
