@@ -4,7 +4,7 @@
   <p>Hey there, welcome!</br>
   I'm Sheldon, Front End developer from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/400px-Flag_of_South_Africa.svg.png" width="14px"/> <b>KZN, South Africa</b>.</p>
 
-<h2>🌎 &nbsp;Where to find me</h2>
+<h2>You can find me on</h2>
 <p>
 
   <a href="https://www.linkedin.com/in/sheldon-fourie-104371161/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
