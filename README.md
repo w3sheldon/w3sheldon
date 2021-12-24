@@ -12,3 +12,5 @@
   <a href="mailto:sheldonfourie@ymail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://twitter.com/NotBigBangShel1" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/w3sheldon/w3sheldon/blob/main/devcard.svg" width="400" alt="Sheldon Fourie's Dev Card"/></a>
